@@ -14,29 +14,15 @@
 
  ## 🖼️ Preview
  <div align="center">
- <h3>Tela Principal<h3/>
+ <h3>Screenshots<h3/>
   <img height = "500px" src="./assets/previews/home_google-pixel4-justblack-portrait.png"/>
-  </div>
-   <div align="center">
-   <h3>Busca (por Nome e por Numero)<h3/>
-   <div>
-   
-   
-   </div>
   <img height = "500px" src="./assets/previews/searchName_google-pixel4-justblack-portrait.png"/>
   <img height = "500px" src="./assets/previews/searchNumber_google-pixel4-justblack-portrait.png"/>
- </div>
- 
-  <div align="center">
-
-<h3>Cards<h3/>
   <img height = "500px" src="./assets/previews/modalCard_google-pixel4-justblack-portrait.png"/>
   <img height = "500px" src="./assets/previews/modalCardShiny_google-pixel4-justblack-portrait.png"/>
- </div>
- 
- <div align="center">
 
-<h3>Gif<h3/>
+ <div align="center">
+    <h3>GIF<h3/>
 <img width = "32%" src="./assets/previews/preview.gif"/>
  </div>
 
