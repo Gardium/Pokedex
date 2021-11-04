@@ -1,0 +1,62 @@
+import { StyleSheet } from "react-native";
+
+export default StyleSheet.create({
+  loadingScreen: {
+    position: "absolute",
+    display: "flex",
+    width: "100%",
+    height: "110%",
+    flex: 1,
+    alignItems: "center",
+    justifyContent: "center",
+    backgroundColor: "#0008",
+    opacity: 1,
+    zIndex: 9999,
+  },
+
+  header: {
+    marginTop: -25,
+    paddingTop: 30,
+    backgroundColor: "red",
+    height: 170,
+    display: "flex",
+    alignItems: "center",
+    justifyContent: "center",
+    borderBottomEndRadius: 25,
+    borderBottomStartRadius: 25,
+  },
+  container: {
+    paddingTop: 8,
+    flex: 1,
+    flexDirection: "column",
+    flexWrap: "wrap",
+    backgroundColor: "#2B292C",
+  },
+  card: {
+    textAlign: "center",
+    backgroundColor: "#fff",
+    padding: 10,
+    borderRadius: 25,
+    marginHorizontal: 5,
+    marginBottom: 5,
+    alignItems: "center",
+  },
+  searchInput: {
+    marginVertical: 10,
+    backgroundColor: "#FFFFF0",
+    width: "80%",
+    fontSize: 18,
+    padding: 10,
+    paddingHorizontal: 30,
+    textAlign: "left",
+    borderRadius: 25,
+    position: "relative",
+  },
+  searchIcon: {
+    position: "absolute",
+    top: 110,
+    right: 50,
+    opacity: 0.1,
+    zIndex: 10,
+  },
+});
