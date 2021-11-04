@@ -15,15 +15,15 @@
  ## 🖼️ Preview
  <div align="center">
  <h3>Screenshots<h3/>
-  <img height = "500px" src="./assets/previews/home_google-pixel4-justblack-portrait.png"/>
-  <img height = "500px" src="./assets/previews/searchName_google-pixel4-justblack-portrait.png"/>
-  <img height = "500px" src="./assets/previews/searchNumber_google-pixel4-justblack-portrait.png"/>
-  <img height = "500px" src="./assets/previews/modalCard_google-pixel4-justblack-portrait.png"/>
-  <img height = "500px" src="./assets/previews/modalCardShiny_google-pixel4-justblack-portrait.png"/>
+  <img width = "19%" src="./assets/previews/home_google-pixel4-justblack-portrait.png"/>
+  <img width = "19%" src="./assets/previews/searchName_google-pixel4-justblack-portrait.png"/>
+  <img width = "19%" src="./assets/previews/searchNumber_google-pixel4-justblack-portrait.png"/>
+  <img width = "19%" src="./assets/previews/modalCard_google-pixel4-justblack-portrait.png"/>
+  <img width = "19%" src="./assets/previews/modalCardShiny_google-pixel4-justblack-portrait.png"/>
 
  <div align="center">
     <h3>GIF<h3/>
-<img width = "32%" src="./assets/previews/preview.gif"/>
+<img width = "25%" src="./assets/previews/preview.gif"/>
  </div>
 
 
