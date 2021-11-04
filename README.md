@@ -1,5 +1,7 @@
 <h1 align="center">
-  Pokedex
+ <span><img height = "50px" src="./assets/icon.png"/> </span>
+   Pokedex
+   <span><img height = "50px" src="./assets/icon.png"/> </span>
 </h1>
 
 <p align="center">
