@@ -25,6 +25,7 @@
     <h3>GIF<h3/>
 <img width = "25%" src="./assets/previews/preview.gif"/>
  </div>
+    </div>
 
 
 ## ✨ Tecnologias
